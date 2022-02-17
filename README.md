@@ -18,6 +18,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/devicon-react-original-wordmark.svg" alt="react" width="20" height="20"/>
+    
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rialbeg&show_icons=true" alt="gabrielmascarenhas"/> 
 </p>
