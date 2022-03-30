@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **I'm a huge Anime Fan 😜**
 
+-Here is my <a href="https://rialbeg.github.io/portfolio/">PORTFOLIO<a/>
+
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
