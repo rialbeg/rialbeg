@@ -1,24 +1,23 @@
-<h1 align="center">Hi there, I'm Gabriel Mascarenhas</h1>
-<h3 align="center">An aspiring programmer interested in technology in all its forms</h3>
+<h1 align="center">Olá, meu nome é Gabriel Mascarenhas</h1>
+<h3 align="center">Sou um programador que ama tecnologia de todas as formas</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rialbeg" alt="gabrielmascarenhas" /> </p>
 
-- 🔭 I’m currently developing my web developing skills
+- 🔭 Estou me desenvolvendo em programação web
 
-- 🌱 I’m currently learning html,css,javascript,sql,react
+- 🌱 Atualmente estou aprendendo html,css,javascript,sql,php,laravel,vue.js
 
-- 💬 Ask me about **JavaScript, HTML, CSS,php,laravel,vue.js**
+- 📫 Entre em contato **gsamascarenhas@gmail.com**
 
-- 📫 How to reach me **gsamascarenhas@gmail.com**
+- ⚡Fato curioso **Eu sou um grande fã de cultura japonesa😜**
 
-- ⚡ Fun fact **I'm a huge Anime Fan 😜**
-
--Here is my <a href="https://rialbeg.github.io/portfolio/">PORTFOLIO<a/>
+-Meu <a href="https://rialbeg.github.io/portfolio/">PORTFOLIO<a/>
 
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>
     
