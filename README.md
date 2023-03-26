@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning html,css,javascript,sql,react
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **JavaScript, HTML, CSS,php,laravel,vue.js**
 
 - 📫 How to reach me **gsamascarenhas@gmail.com**
 
