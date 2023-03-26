@@ -10,7 +10,7 @@
 
 - ⚡Fato curioso **Eu sou um grande fã de cultura japonesa😜**
 
--Meu <a href="https://rialbeg.github.io/portfolio/">PORTFOLIO<a/>
+<!-- -Meu <a href="https://rialbeg.github.io/portfolio/">PORTFOLIO<a/> -->
 
 <p align="left">
 
